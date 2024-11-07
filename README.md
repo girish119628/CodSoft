@@ -31,7 +31,7 @@ Results: Achieved a MAE of X on the test data.
 
 ---
 
-# Model 2: Customer Churn Prediction
+# Model 2: IRIS FLOWER CLASSIFICATION
 Objective: Predict customer churn based on demographic and usage data.
 Dataset: Customer records including features such as age, tenure, product usage.
 Approach: Classification model using Random Forest.
@@ -40,7 +40,7 @@ Results: Model achieved an accuracy of Y on the validation dataset.
 
 ---
 
-# Model 3: Image Classification
+# Model 3: SALES PREDICTION
 Objective: Classify images into different categories.
 Dataset: Contains labeled images across several categories.
 Approach: Convolutional Neural Network (CNN) model.
@@ -49,7 +49,7 @@ Results: Achieved an accuracy of Z on the test images.
 
 --
 
-# Model 4: Sentiment Analysis
+# Model 4: TITANIC SURVIVAL PREDICTION
 Objective: Analyze and classify customer feedback as positive or negative.
 Dataset: Customer feedback text data.
 Approach: Natural Language Processing (NLP) with LSTM.
@@ -58,25 +58,29 @@ Results: F1-score of W achieved on the validation set.
 
 ---
 
-Contact Information
+# Contact Information
 For questions or collaboration, feel free to reach out:
 
 Girish Kumar
 Email: girish119628@gmail.com
 GitHub: https://github.com/girish119628
 
+---
 
 ## General Information
 ## Tools and Skills
 - **Languages**: Python
-- **Libraries**: NumPy, Pandas, Scikit-Learn, TensorFlow, Keras
+- **Libraries**: NumPy, Pandas, Scikit-Learn, 
 - **Other Tools**: Jupyter Notebook, Git, GitHub
 
-## Features and Techniques
-- **Feature Engineering**: Data cleaning, normalization
-- **Modeling Techniques**: Linear Regression, Neural Networks, etc.
-- **Evaluation Metrics**: Accuracy, F1-score
+---
 
+## Features and Techniques
+- **Feature Engineering**: Data cleaning, normalization/Standardization
+- **Modeling Techniques**: Linear Regression, Random Forest, Decision tree, Classification, etc.
+- **Evaluation Metrics**: Accuracy, F1-score, MSE, MAE, R2, etc
+
+---
 
 ## Installation and Usage
 ```bash
@@ -84,6 +88,4 @@ git clone https://github.com/girish119628/codsoft.git
 cd codsoft
 pip install -r requirements.txt
 
---- 
-
-Let me know if you'd like help filling in specific sections!
+---
