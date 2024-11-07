@@ -6,25 +6,29 @@ A collection of machine learning projects developed as part of the Codsoft Data 
 ## Models
 Click on each model below for a detailed explanation and results:
 
-- [Model 1: Predictive Sales Analysis](#imdb-rating-prediction)
-- [Model 2: Customer Churn Prediction](#iris-classification)
-- [Model 3: Image Classification](#sales-prediction)
-- [Model 4: Sentiment Analysis](#titanic-survival-prediction)
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Project Structure](#project-structure)
-- [Tools and Skills](#tools-and-skills)
-- [Features and Techniques](#features-and-techniques)
-- [Project Details](#project-details)
-- [Installation and Usage](#installation-and-usage)
-- [Results](#results)
-- [Contributions](#contributions)
-- [Contact Information](#contact-information)
-
-## Project Structure
+- [Model 1: MOVIE RATING PREDICTION](#imdb-rating-prediction)
+- [Model 2: IRIS FLOWER CLASSIFICATION](#iris-classification)
+- [Model 3: SALES PREDICTION](#sales-prediction)
+- [Model 4: TITANIC SURVIVAL PREDICTION](#titanic-survival-prediction)
 
 ---
+
+Model 1: MOVIE RATING PREDICTION
+Objective: Predict future sales based on historical data.
+Dataset: Includes sales data with features such as date, store location, and product category.
+Approach: Time-series analysis using ARIMA.
+Metrics: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE).
+Results: Achieved a MAE of X on the test data.
+
+---
+
+Model 2: Customer Churn Prediction
+Objective: Predict customer churn based on demographic and usage data.
+Dataset: Customer records including features such as age, tenure, product usage.
+Approach: Classification model using Random Forest.
+Metrics: Accuracy, Precision, Recall.
+Results: Model achieved an accuracy of Y on the validation dataset.
+
 
 ### Explanation of Each Section
 
