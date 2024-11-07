@@ -18,11 +18,13 @@ Click on each model below for a detailed explanation and results:
 ---
 
 # Model 1: MOVIE RATING PREDICTION
+Dataset: [https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies]
 The Movie Rating Prediction project estimates movie ratings based on features like genre, director, and actors. By analyzing historical data, it reveals key factors that influence ratings, providing insights into audience and critic preferences.
 
 ---
 
 # Model 2: IRIS FLOWER CLASSIFICATION
+Dataset: [https://www.kaggle.com/datasets/arshid/iris-flower-dataset]
 The Iris Classification project aims to classify iris flowers into three species—setosa, versicolor, and virginica—based on sepal and petal measurements. Using the widely recognized Iris dataset, this model demonstrates fundamental classification techniques for distinguishing between species accurately.
 
 ---
