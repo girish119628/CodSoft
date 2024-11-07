@@ -10,10 +10,10 @@ A collection of machine learning projects developed as part of the Codsoft Data 
 ## Models
 Click on each model below for a detailed explanation and results:
 
-- [Model 1: MOVIE RATING PREDICTION](#movie-rating-prediction)
+- [Model 1: MOVIE RATING PREDICTION]('#movie-rating-prediction')
 - [Model 2: IRIS FLOWER CLASSIFICATION](#iris-flower-classification)
 - [Model 3: SALES PREDICTION](#sales-prediction)
-- [Model 4: TITANIC SURVIVAL PREDICTION](#titanic-survival-prediction)
+- [Model 4: TITANIC SURVIVAL PREDICTION]('#titanic-survival-prediction')
 
 ---
 
