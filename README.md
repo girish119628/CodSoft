@@ -3,6 +3,14 @@
 ## Introduction
 A collection of machine learning projects developed as part of the Codsoft Data Science initiative. This repository includes projects ranging from predictive analytics to classification models.
 
+## Models
+Click on each model below for a detailed explanation and results:
+
+- [Model 1: Predictive Sales Analysis](#imdb-rating-prediction)
+- [Model 2: Customer Churn Prediction](#iris-classification)
+- [Model 3: Image Classification](#sales-prediction)
+- [Model 4: Sentiment Analysis](#titanic-survival-prediction)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
@@ -16,8 +24,19 @@ A collection of machine learning projects developed as part of the Codsoft Data 
 
 ## Project Structure
 
+---
+
+### Explanation of Each Section
+
+1. **Overview**: Brief summary of the repository and its purpose.
+2. **Models**: Replaces the Table of Contents. Links to individual models make navigation straightforward.
+3. **General Information**: Includes common elements (Tools/Skills, Installation).
+4. **Model Sections**: Each model has a distinct section with details, allowing readers to quickly access the specifics of any model.
+5. **Contact Information**: Helps collaborators or users get in touch.
 
 
+
+## General Information
 ## Tools and Skills
 - **Languages**: Python
 - **Libraries**: NumPy, Pandas, Scikit-Learn, TensorFlow, Keras
