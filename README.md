@@ -53,12 +53,4 @@ Girish Kumar
 Email: girish119628@gmail.com
 GitHub: https://github.com/girish119628
 
----
 
-## Installation and Usage
-```bash
-git clone https://github.com/girish119628/codsoft.git
-cd codsoft
-pip install -r requirements.txt
-
----
